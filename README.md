@@ -1,4 +1,3 @@
 # Repertorio-11-23
 João Gabreil R. Polo
-Programador de back-end
-pitno mole
+Programador de back-end pinto
